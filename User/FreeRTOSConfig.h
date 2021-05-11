@@ -153,8 +153,8 @@
 #define configSUPPORT_DYNAMIC_ALLOCATION        1       //支持动态内存申请
  
  
-#define configTOTAL_HEAP_SIZE					((size_t)(32*1024)) //系统所有总的堆大小
- 
+#define configTOTAL_HEAP_SIZE					((size_t)(10*1024)) //系统所有总的堆大小
+//#define configTOTAL_HEAP_SIZE					((size_t)(32*1024)) //系统所有总的堆大小
  
  
 /***************************************************************

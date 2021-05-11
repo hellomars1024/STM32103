@@ -128,7 +128,7 @@ void DebugMon_Handler(void)
 //void PendSV_Handler(void)
 //{
 //}
-extern void xPortSysTickHandler£¨void£©;
+extern void xPortSysTickHandler(void);
 /**
   * @brief  This function handles SysTick Handler.
   * @param  None
